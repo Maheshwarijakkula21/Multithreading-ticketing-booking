@@ -1,0 +1,42 @@
+# Multi-Threaded Ticket Booking System
+
+## About the Project
+This project is a web-based ticket booking system developed using Java, Spring Boot, and MySQL. It provides REST APIs to manage events, check seat availability, and book tickets.
+
+## Technologies Used
+- Java
+- Spring Boot
+- REST API
+- MySQL
+- Maven
+- Spring Data JPA
+
+## Features
+- Create and manage events
+- View event details
+- Check available seats
+- Book tickets
+- Manage booking records
+- Handle concurrent booking requests
+
+## Requirements
+- JDK 17 or compatible version
+- MySQL Server
+- Maven
+- Eclipse IDE or another Java IDE
+
+## Database Setup
+1. Start the MySQL server.
+2. Create the required database.
+3. Configure the database username and password in `application.properties`.
+4. Run the Spring Boot application.
+
+## How to Run
+1. Clone or download this repository.
+2. Import the project as a Maven project into Eclipse.
+3. Configure the MySQL connection.
+4. Run the Spring Boot application.
+5. Test the REST APIs using Postman or a browser.
+
+## Author
+Student Project — Multi-Threaded Ticket Booking System
